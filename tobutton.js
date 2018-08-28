@@ -1,4 +1,4 @@
-function funs1(hy,zh){
+function func1(hy,zh){
 var date="2001-01-01";
 if(hy=='d040b253-263c-40a6-9a7e-d41dad42ce9b' ){ 
  date="2118-01-03";
