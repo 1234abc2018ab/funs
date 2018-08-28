@@ -1,3 +1,4 @@
  function func1() {
- aler('he');
+ 
+  return "ff";
    };
