@@ -1,4 +1,5 @@
  function func1() {
- 
-  return "ff";
+ var re_arr=['asdsdd','cyg44'];
+ // return "ff";
+  return re_arr;
    };
